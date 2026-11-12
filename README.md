@@ -11,23 +11,25 @@ Every claim in this README is backed by a real screenshot from a live deployment
 
 ---
 
-## Table of Contents
+## 📑 Table of Contents
 
-- [Highlights](#highlights)
-- [Architecture](#architecture)
-- [Tech Stack](#tech-stack)
-- [Project Structure](#project-structure)
-- [Prerequisites](#prerequisites)
-- [Quick Start](#quick-start)
-- [How to Verify Everything Works](#how-to-verify-everything-works)
-- [Proof of Working](#proof-of-working)
-- [Results Summary](#results-summary)
-- [Remote State (Recommended)](#remote-state-recommended)
-- [Troubleshooting & Lessons Learned](#troubleshooting--lessons-learned)
-- [Destroy](#destroy)
-- [Cost & Security Notes](#cost--security-notes)
-- [Possible Improvements](#possible-improvements)
-- [Author](#author)
+| # | Section | Description |
+|:---:|---|---|
+| 01 | [✨ Highlights](#-highlights) | Key project features and capabilities |
+| 02 | [🏗️ Architecture](#️-architecture) | AWS infrastructure and deployment flow |
+| 03 | [🛠️ Tech Stack](#️-tech-stack) | Tools, technologies, and services used |
+| 04 | [📁 Project Structure](#-project-structure) | Terraform modules and directory layout |
+| 05 | [📋 Prerequisites](#-prerequisites) | Requirements before deployment |
+| 06 | [🚀 Quick Start](#-quick-start) | Step-by-step deployment instructions |
+| 07 | [🔍 Verification](#-verification) | Verify that infrastructure and Jenkins work |
+| 08 | [📸 Proof of Working](#-proof-of-working) | Deployment screenshots and evidence |
+| 09 | [📊 Results Summary](#-results-summary) | Project outcomes and achievements |
+| 10 | [☁️ Remote State](#️-remote-state-recommended) | Terraform state management with AWS S3 |
+| 11 | [🧩 Troubleshooting & Lessons Learned](#-troubleshooting--lessons-learned) | Common issues and solutions |
+| 12 | [🧹 Destroy Infrastructure](#-destroy-infrastructure) | Safely remove AWS resources |
+| 13 | [🔐 Cost & Security Notes](#-cost--security-notes) | Cost awareness and security practices |
+| 14 | [💡 Possible Improvements](#-possible-improvements) | Future enhancements |
+| 15 | [👨‍💻 Author](#-author) | Project creator and contact information |
 
 ---
 
